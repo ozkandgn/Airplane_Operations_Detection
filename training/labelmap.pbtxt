@@ -1,0 +1,54 @@
+item {
+  id: 1
+  name: 'parked'
+}
+
+item {
+  id: 2
+  name: 'clamps'
+}
+
+item {
+  id: 3
+  name: 'clamps_2'
+}
+
+item {
+  id: 4
+  name: 'back_cargo_door'
+}
+
+item {
+  id: 5
+  name: 'back_door'
+}
+
+item {
+  id: 6
+  name: 'fwd_cargo_door'
+}
+
+item {
+  id: 7
+  name: 'fwd_cargo_door_2'
+}
+
+item {
+  id: 8
+  name: 'fwd_door'
+}
+
+item {
+  id: 9
+  name: 'bridge'
+}
+
+item {
+  id: 10
+  name: 'fuel'
+}
+
+item {
+  id: 11
+  name: 'pushback'
+}
